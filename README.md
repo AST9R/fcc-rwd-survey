@@ -1,1 +1,3 @@
-# fcc-rwd-survey
+# Survey Form (HTML & CSS)
+
+This web page was designed and coded as part of freeCodeCamp's "Responsive Web Design" curricular projects.
